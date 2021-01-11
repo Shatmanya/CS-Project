@@ -1,3 +1,5 @@
+# program to input two tuples and interchange the tuple values in python
+
 t1 = tuple( )  
 n = input("Total number of values m first tuple") 
 for i in range (n):  
