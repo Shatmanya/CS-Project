@@ -7,5 +7,4 @@ for i in range(n):
     t = t + (values,)
 
 print("maximum value in the tuple ",max(t))
-print("minimum value in the tuple ",min(t)
-)
+print("minimum value in the tuple ",min(t))
