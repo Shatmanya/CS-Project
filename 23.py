@@ -3,7 +3,7 @@
 list = []
 number = int(input("enter total number of items "))
 for i in range(0,number):
-    element = int(input())
+    element = input()
     list.append(element)
 print(list)
 
